@@ -267,6 +267,7 @@ export const FormButton = styled.button`
     &:focus,
     &:active {
         color: black;
+        // bugfix: correct error in mobile view
     }
 
     &:hover:before,
