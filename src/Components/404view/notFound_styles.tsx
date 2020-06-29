@@ -1,5 +1,8 @@
 import styled, { keyframes } from 'styled-components';
 
+
+//fix: 404 page image aspect ratio
+
 const shadanim = keyframes`
 from {
     transform: rotatey(0deg);
@@ -21,7 +24,7 @@ export const Wrapper = styled.main`
 
     img {
         width: 100%;
-        height: 100%;
+        height: 1200px;
         position: absolute;
         filter: blur(20px);
     }
@@ -51,3 +54,4 @@ export const Wrapper = styled.main`
         margin-top: 150px;
     }
 `;
+

@@ -267,7 +267,6 @@ export const FormButton = styled.button`
     &:focus,
     &:active {
         color: black;
-        // bugfix: correct error in mobile view
     }
 
     &:hover:before,
@@ -294,7 +293,6 @@ export const Container = styled.section`
     align-items: center;
 
     @media (max-width: 840px) {
-        justify-content: center;
         align-items: flex-start;
     }
 `;
