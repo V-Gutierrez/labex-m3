@@ -35,7 +35,7 @@ An mini virtual enterprise app with authenticated routes and login
 - <a href="https://eslint.org/">💖 **Lint** — ESlint/Prettier/Editor Config</a>
 - <a href="https://date-fns.org/">⌚ **Date-Fns** — A consistent toolset for manipulating JavaScript dates in a browser & Node.js.</a>
 - <a href="https://reacttraining.com/react-router/">🗺 **React-Router** — Declarative Routing for React.js </a>
-- <a href="https://github.com/axios/axios">↗ **Axios** — Promise based HTTP client for the browser and Node.js </a>
+- <a href="https://github.com/axios/axios"> 🌐 **Axios** — Promise based HTTP client for the browser and Node.js </a>
 
 
 
