@@ -1,4 +1,4 @@
-<h1>AstroMatch</h1>
+<h1>LabeX</h1>
 
 <p align="center">
 <image width="300" height="300" src="https://user-images.githubusercontent.com/62355596/85961137-5ade0280-b976-11ea-971d-6c0095909b3b.png"/></br>
